@@ -25,6 +25,12 @@
         "icon": "./icons/surgio.svg",
         "host": "devrn",
         "url": "https://surgio.nxw.name"
+      },
+      {
+        "name": "Prometheus",
+        "icon": "./icons/prometheus.svg",
+        "host": "devrn",
+        "url": "https://prometheus-usrn.xavierniu.cc"
       }
     ]
   },
