@@ -118,31 +118,6 @@
     ]
   },
   {
-    "title": "Ant Group",
-    "services": [
-      {
-        "name": "NekoMaster",
-        "icon": "./icons/neko-master.png",
-        "url": "http://devant.ant-env.nxw.name:20482"
-      },
-      {
-        "name": "Prometheus",
-        "icon": "./icons/prometheus.svg",
-        "url": "http://devant.ant-env.nxw.name:9090"
-      },
-      {
-        "name": "CopilotDisplay",
-        "icon": "./icons/codis.svg",
-        "url": "http://devant.ant-env.nxw.name:8420"
-      },
-      {
-        "name": "noVNC",
-        "icon": "./icons/novnc.svg",
-        "url": "http://devant.ant-env.nxw.name:6080/vnc.html"
-      }
-    ]
-  },
-  {
     "title": "Residential",
     "services": [
       {
