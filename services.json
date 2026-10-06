@@ -118,6 +118,16 @@
     ]
   },
   {
+    "title": "ByteDance",
+    "services": [
+      {
+        "name": "Prometheus",
+        "icon": "./icons/prometheus.svg",
+        "url": "http://devbytedevbox.inxw.net:9090"
+      }
+    ]
+  },
+  {
     "title": "Residential",
     "services": [
       {
