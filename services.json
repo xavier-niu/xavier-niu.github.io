@@ -50,10 +50,10 @@
         "url": "https://grafana.inxw.net"
       },
       {
-        "name": "MetacubeXD",
-        "icon": "./icons/metacubexd.svg",
+        "name": "sing-box",
+        "icon": "./icons/sing-box.svg",
         "host": "devhome",
-        "url": "http://metacubexd.inxw.net"
+        "url": "https://singbox.inxw.net"
       },
       {
         "name": "Immich",
