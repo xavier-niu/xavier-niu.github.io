@@ -38,12 +38,6 @@
     "title": "HomeLab",
     "services": [
       {
-        "name": "Chromium",
-        "icon": "./icons/chromium.png",
-        "host": "devhome",
-        "url": "https://browser.inxw.net"
-      },
-      {
         "name": "Grafana",
         "icon": "./icons/grafana.svg",
         "host": "devhome",
