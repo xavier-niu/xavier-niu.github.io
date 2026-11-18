@@ -98,10 +98,10 @@
         "url": "http://devhome.home-env.nxw.name:20482"
       },
       {
-        "name": "Renewlet",
-        "icon": "./icons/renewlet.svg",
+        "name": "Calends",
+        "icon": "./icons/calends.svg",
         "host": "devhome",
-        "url": "https://renewlet.inxw.net"
+        "url": "https://calends.inxw.net"
       },
       {
         "name": "ProxmoxVE",
